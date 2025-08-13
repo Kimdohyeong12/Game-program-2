@@ -1,9 +1,12 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\\uAE40\uB3C4\uD615\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Game-program-2\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0D01B7DE-2083-4424-A2DF-172B2D0B9E65}|Program.vcxproj|C:\\Users\\\uAE40\uB3C4\uD615\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Game-program-2\\Program\\Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7DF8F716-9B21-43B6-BBE7-881A30679341}|..\\Class1th(Time)\\Class1th(Time).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D01B7DE-2083-4424-A2DF-172B2D0B9E65}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-program-2\\Program\\Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0D01B7DE-2083-4424-A2DF-172B2D0B9E65}|Program.vcxproj|solutionrelative:Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -19,12 +22,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class1th(Time)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\source.c",
+              "RelativeToolTip": "..\\Class1th(Time)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-13T10:20:41.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.c",
-              "DocumentMoniker": "C:\\Users\\\uAE40\uB3C4\uD615\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Game-program-2\\Program\\Program.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Program\\Program.c",
               "RelativeDocumentMoniker": "Program.c",
-              "ToolTip": "C:\\Users\\\uAE40\uB3C4\uD615\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Game-program-2\\Program\\Program.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Program\\Program.c",
               "RelativeToolTip": "Program.c",
-              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswGgAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-12T09:17:41.826Z",
               "EditorCaption": ""
