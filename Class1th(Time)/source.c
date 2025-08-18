@@ -2,17 +2,9 @@
 
 #define SIZE 1000
 
-int main()
+void load(const char * file_name)
 {
-#pragma region 파일 입출력
-
-#pragma region 파일 쓰기 (File write)
-
-#pragma endregion
-
-#pragma region 파일 읽기 (File Read)
-
-	FILE* file = fopen("data.txt", "r");
+	FILE* file = fopen("file_name", "r");
 
 	char buffer[SIZE] = { 0, };
 
@@ -26,6 +18,38 @@ int main()
 	printf("%s", buffer);
 
 	fclose(file);
+}
+
+
+
+int main()
+{
+#pragma region 파일 입출력
+
+#pragma region 파일 쓰기 (File write)
+
+#pragma endregion
+
+#pragma region 파일 읽기 (File Read)
+
+	// FILE* file = fopen("data.txt", "r");
+	// 
+	// char buffer[SIZE] = { 0, };
+	// 
+	// // 1. buffer : 읽을 데이터를 저장할 메모리
+	// // 2. element size : 각 데이터 항목의 크기
+	// // 3. element count : 데이터를 읽어올 데이터 항목의 수
+	// // 4. stream : 데이터를 읽어올 파일 포인터
+	// 
+	// fread(buffer, 1, SIZE, file);
+	// 
+	// printf("%s", buffer);
+	// 
+	// fclose(file);
+	// 
+	load("Pocketmon.txt");
+
+	
 #pragma endregion
 
 
