@@ -1,5 +1,6 @@
 ﻿#include <stdio.h>
 #include <Windows.h>
+#include <conio.h>
 
 #define UP 72
 #define LEFT 75
@@ -39,9 +40,41 @@ void move(int x, int y)
 
 int main()
 {
-	move(5, 5);
 
-	printf("★");
+	int x = 0;
+	int y = 0;
 
+	char key = 0;
+
+	while (1)
+	{
+		key = _getch();
+
+		if (key == -32)
+		{
+			key = _getch();
+		}
+
+		switch (key)
+		{
+		case UP: y--;
+			break;
+		case LEFT: x -= 2;
+			break;
+		case RIGHT: x += 2;
+			break;
+		case DOWN: y++;
+			break;
+		default: printf("Exception");
+			break;
+	        
+		}
+
+		move(x, y);
+
+		printf("★");
+
+		system("cls");
+	}
 	return 0;
 }

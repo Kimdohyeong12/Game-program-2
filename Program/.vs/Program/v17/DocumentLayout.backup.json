@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A8AADD1D-8C08-4E65-9C3E-8F994C1A2408}|..\\Class3th (input System)\\Class3th (input System).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class3th (input System)\\sourse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A8AADD1D-8C08-4E65-9C3E-8F994C1A2408}|..\\Class3th (input System)\\Class3th (input System).vcxproj|C:\\Users\\ikope\\Desktop\\Game-program-2\\Class3th (input System)\\sourse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35BB2CC3-367E-4DD2-9141-03D2E21B17FD}|..\\Class2th (File input \u0026 Output)\\Class2th (File input \u0026 Output).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class2th (File input \u0026 Output)\\sourse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D01B7DE-2083-4424-A2DF-172B2D0B9E65}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-program-2\\Program\\Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{0D01B7DE-2083-4424-A2DF-172B2D0B9E65}|Program.vcxproj|C:\\Users\\ikope\\Desktop\\Game-program-2\\Program\\Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0D01B7DE-2083-4424-A2DF-172B2D0B9E65}|Program.vcxproj|solutionrelative:Program.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF8F716-9B21-43B6-BBE7-881A30679341}|..\\Class1th(Time)\\Class1th(Time).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{7DF8F716-9B21-43B6-BBE7-881A30679341}|..\\Class1th(Time)\\Class1th(Time).vcxproj|C:\\Users\\ikope\\Desktop\\Game-program-2\\Class1th(Time)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7DF8F716-9B21-43B6-BBE7-881A30679341}|..\\Class1th(Time)\\Class1th(Time).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{7DF8F716-9B21-43B6-BBE7-881A30679341}|..\\Class1th(Time)\\Class1th(Time).vcxproj|C:\\Users\\ikope\\Desktop\\Game-program-2\\Class1th(Time)\\data.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35BB2CC3-367E-4DD2-9141-03D2E21B17FD}|..\\Class2th (File input \u0026 Output)\\Class2th (File input \u0026 Output).vcxproj|C:\\Users\\ikope\\Desktop\\Game-program-2\\Class2th (File input \u0026 Output)\\sourse.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,69 +26,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "sourse.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class3th (input System)\\sourse.c",
-              "RelativeDocumentMoniker": "..\\Class3th (input System)\\sourse.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class3th (input System)\\sourse.c",
-              "RelativeToolTip": "..\\Class3th (input System)\\sourse.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-19T09:44:27.244Z",
+              "DocumentIndex": 3,
+              "Title": "data.txt",
+              "DocumentMoniker": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Class1th(Time)\\data.txt",
+              "RelativeDocumentMoniker": "..\\Class1th(Time)\\data.txt",
+              "ToolTip": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Class1th(Time)\\data.txt",
+              "RelativeToolTip": "..\\Class1th(Time)\\data.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-08-20T10:41:24.538Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "sourse.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class2th (File input \u0026 Output)\\sourse.c",
-              "RelativeDocumentMoniker": "..\\Class2th (File input \u0026 Output)\\sourse.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class2th (File input \u0026 Output)\\sourse.c",
-              "RelativeToolTip": "..\\Class2th (File input \u0026 Output)\\sourse.c",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Class3th (input System)\\sourse.c",
+              "RelativeDocumentMoniker": "..\\Class3th (input System)\\sourse.c",
+              "ToolTip": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Class3th (input System)\\sourse.c",
+              "RelativeToolTip": "..\\Class3th (input System)\\sourse.c",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDsAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-18T09:41:24.539Z",
+              "WhenOpened": "2025-08-20T08:57:41.487Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "data.txt",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\data.txt",
-              "RelativeDocumentMoniker": "..\\Class1th(Time)\\data.txt",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\data.txt",
-              "RelativeToolTip": "..\\Class1th(Time)\\data.txt",
+              "Title": "sourse.c",
+              "DocumentMoniker": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Class2th (File input \u0026 Output)\\sourse.c",
+              "RelativeDocumentMoniker": "..\\Class2th (File input \u0026 Output)\\sourse.c",
+              "ToolTip": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Class2th (File input \u0026 Output)\\sourse.c",
+              "RelativeToolTip": "..\\Class2th (File input \u0026 Output)\\sourse.c",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-08-14T09:46:28.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\source.c",
-              "RelativeDocumentMoniker": "..\\Class1th(Time)\\source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Class1th(Time)\\source.c",
-              "RelativeToolTip": "..\\Class1th(Time)\\source.c",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-08-14T09:46:16.894Z",
+              "WhenOpened": "2025-08-20T08:57:39.291Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Class1th(Time)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class1th(Time)\\source.c",
+              "ToolTip": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Class1th(Time)\\source.c",
+              "RelativeToolTip": "..\\Class1th(Time)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-08-20T08:57:37.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Program\\Program.c",
+              "DocumentMoniker": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Program\\Program.c",
               "RelativeDocumentMoniker": "Program.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-program-2\\Program\\Program.c",
+              "ToolTip": "C:\\Users\\ikope\\Desktop\\Game-program-2\\Program\\Program.c",
               "RelativeToolTip": "Program.c",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAAAHQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-08-12T09:17:41.826Z",
               "EditorCaption": ""
