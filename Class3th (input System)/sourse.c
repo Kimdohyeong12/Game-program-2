@@ -48,6 +48,9 @@ int main()
 
 	while (1)
 	{
+		if (_kbhit())
+		{
+
 		key = _getch();
 
 		if (key == -32)
@@ -67,14 +70,17 @@ int main()
 			break;
 		default: printf("Exception");
 			break;
-	        
+		}
+
+		system("cls");
+
 		}
 
 		move(x, y);
 
 		printf("★");
 
-		system("cls");
+	  
 	}
 	return 0;
 }
